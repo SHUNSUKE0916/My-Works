@@ -1,0 +1,2804 @@
+fileFormatVersion: 2
+guid: d5ddc6b3c7b4b48aeb54634a28815eb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4839879016437918030
+    second: chip_s01-removebg-preview_0
+  - first:
+      213: -3548614528015744367
+    second: chip_s01-removebg-preview_1
+  - first:
+      213: -2142865067991094135
+    second: chip_s01-removebg-preview_2
+  - first:
+      213: -5233353912434620920
+    second: chip_s01-removebg-preview_3
+  - first:
+      213: 8804695678435509001
+    second: chip_s01-removebg-preview_4
+  - first:
+      213: -6966666317304634321
+    second: chip_s01-removebg-preview_5
+  - first:
+      213: 6618597595305540706
+    second: chip_s01-removebg-preview_6
+  - first:
+      213: 8990501946616321189
+    second: chip_s01-removebg-preview_7
+  - first:
+      213: 8221639538642128659
+    second: chip_s01-removebg-preview_8
+  - first:
+      213: 4285658186134923332
+    second: chip_s01-removebg-preview_9
+  - first:
+      213: -606005039593227821
+    second: chip_s01-removebg-preview_10
+  - first:
+      213: 7824470372962903645
+    second: chip_s01-removebg-preview_11
+  - first:
+      213: -553789903289508130
+    second: chip_s01-removebg-preview_12
+  - first:
+      213: -8260562227818941609
+    second: chip_s01-removebg-preview_13
+  - first:
+      213: 2253844495266421903
+    second: chip_s01-removebg-preview_14
+  - first:
+      213: 9064776833761108580
+    second: chip_s01-removebg-preview_15
+  - first:
+      213: 4246202193493138018
+    second: chip_s01-removebg-preview_16
+  - first:
+      213: 3155072653280764284
+    second: chip_s01-removebg-preview_17
+  - first:
+      213: -7206651987117995042
+    second: chip_s01-removebg-preview_18
+  - first:
+      213: -8093453396767247307
+    second: chip_s01-removebg-preview_19
+  - first:
+      213: 1589908868759309662
+    second: chip_s01-removebg-preview_20
+  - first:
+      213: -1258040446648917243
+    second: chip_s01-removebg-preview_21
+  - first:
+      213: -4006956001158417957
+    second: chip_s01-removebg-preview_22
+  - first:
+      213: -6871153327939587256
+    second: chip_s01-removebg-preview_23
+  - first:
+      213: 5969034374073136541
+    second: chip_s01-removebg-preview_24
+  - first:
+      213: 2529722400876148004
+    second: chip_s01-removebg-preview_25
+  - first:
+      213: -501364356823894536
+    second: chip_s01-removebg-preview_26
+  - first:
+      213: 607477732290020435
+    second: chip_s01-removebg-preview_27
+  - first:
+      213: -7114121702774767630
+    second: chip_s01-removebg-preview_28
+  - first:
+      213: -4528799779606201645
+    second: chip_s01-removebg-preview_29
+  - first:
+      213: 5125689692861663508
+    second: chip_s01-removebg-preview_30
+  - first:
+      213: -1973292938119235897
+    second: chip_s01-removebg-preview_31
+  - first:
+      213: 4269555052198081971
+    second: chip_s01-removebg-preview_32
+  - first:
+      213: -6701169918847904169
+    second: chip_s01-removebg-preview_33
+  - first:
+      213: -432775431408974931
+    second: chip_s01-removebg-preview_34
+  - first:
+      213: -8156130601432860349
+    second: chip_s01-removebg-preview_35
+  - first:
+      213: 8496818388701139082
+    second: chip_s01-removebg-preview_36
+  - first:
+      213: -3811818657848418861
+    second: chip_s01-removebg-preview_37
+  - first:
+      213: -8591555767136118270
+    second: chip_s01-removebg-preview_38
+  - first:
+      213: -2399649666098584059
+    second: chip_s01-removebg-preview_39
+  - first:
+      213: -2237267439569575514
+    second: chip_s01-removebg-preview_40
+  - first:
+      213: 518893054589891624
+    second: chip_s01-removebg-preview_41
+  - first:
+      213: -9185703094564275341
+    second: chip_s01-removebg-preview_42
+  - first:
+      213: 9148416973219321209
+    second: chip_s01-removebg-preview_43
+  - first:
+      213: 213348235901883966
+    second: chip_s01-removebg-preview_44
+  - first:
+      213: 1402382467976848000
+    second: chip_s01-removebg-preview_45
+  - first:
+      213: -7683560531785799542
+    second: chip_s01-removebg-preview_46
+  - first:
+      213: 7903790008037706127
+    second: chip_s01-removebg-preview_47
+  - first:
+      213: -3418014914884219873
+    second: chip_s01-removebg-preview_48
+  - first:
+      213: 6069415224014755025
+    second: chip_s01-removebg-preview_49
+  - first:
+      213: -312105213900345453
+    second: chip_s01-removebg-preview_50
+  - first:
+      213: -3837468721467394452
+    second: chip_s01-removebg-preview_51
+  - first:
+      213: -6066176848805547922
+    second: chip_s01-removebg-preview_52
+  - first:
+      213: 1698887249501389673
+    second: chip_s01-removebg-preview_53
+  - first:
+      213: 7885339283081235800
+    second: chip_s01-removebg-preview_54
+  - first:
+      213: -2422272551704633322
+    second: chip_s01-removebg-preview_55
+  - first:
+      213: -2938703398120367982
+    second: chip_s01-removebg-preview_56
+  - first:
+      213: 6086581270008512965
+    second: chip_s01-removebg-preview_57
+  - first:
+      213: 1677822452539497068
+    second: chip_s01-removebg-preview_58
+  - first:
+      213: 4049547976561763240
+    second: chip_s01-removebg-preview_59
+  - first:
+      213: 1726770388292168943
+    second: chip_s01-removebg-preview_60
+  - first:
+      213: -8357216121639732950
+    second: chip_s01-removebg-preview_61
+  - first:
+      213: -1654061608393555324
+    second: chip_s01-removebg-preview_62
+  - first:
+      213: -2542677590953354922
+    second: chip_s01-removebg-preview_63
+  - first:
+      213: 6844932716096036892
+    second: chip_s01-removebg-preview_64
+  - first:
+      213: 6301489898162402247
+    second: chip_s01-removebg-preview_65
+  - first:
+      213: -4343531632979389981
+    second: chip_s01-removebg-preview_66
+  - first:
+      213: -85131023677746921
+    second: chip_s01-removebg-preview_67
+  - first:
+      213: 1317067670086268724
+    second: chip_s01-removebg-preview_68
+  - first:
+      213: -3081605036215525587
+    second: chip_s01-removebg-preview_69
+  - first:
+      213: -9060073408790687947
+    second: chip_s01-removebg-preview_70
+  - first:
+      213: 8656591687319676614
+    second: chip_s01-removebg-preview_71
+  - first:
+      213: 6686480480963247481
+    second: chip_s01-removebg-preview_72
+  - first:
+      213: -6255729114841155830
+    second: chip_s01-removebg-preview_73
+  - first:
+      213: 5690642495610762321
+    second: chip_s01-removebg-preview_74
+  - first:
+      213: 7466540413381806645
+    second: chip_s01-removebg-preview_75
+  - first:
+      213: 4884000770162062690
+    second: chip_s01-removebg-preview_76
+  - first:
+      213: 3100424680781407460
+    second: chip_s01-removebg-preview_77
+  - first:
+      213: 3322769454016115905
+    second: chip_s01-removebg-preview_78
+  - first:
+      213: 4677770124700024647
+    second: chip_s01-removebg-preview_79
+  - first:
+      213: -4762151163180845147
+    second: chip_s01-removebg-preview_80
+  - first:
+      213: 4377967326959213042
+    second: chip_s01-removebg-preview_81
+  - first:
+      213: 5864861709323382568
+    second: chip_s01-removebg-preview_82
+  - first:
+      213: 3737735698182679102
+    second: chip_s01-removebg-preview_83
+  - first:
+      213: -4113158976425324439
+    second: chip_s01-removebg-preview_84
+  - first:
+      213: 1584561902592340628
+    second: chip_s01-removebg-preview_85
+  - first:
+      213: 6806652948611324437
+    second: chip_s01-removebg-preview_86
+  - first:
+      213: 7088111104159846457
+    second: chip_s01-removebg-preview_87
+  - first:
+      213: -1627791366347585665
+    second: chip_s01-removebg-preview_88
+  - first:
+      213: 7873595638548319974
+    second: chip_s01-removebg-preview_89
+  - first:
+      213: 6330127738278190448
+    second: chip_s01-removebg-preview_90
+  - first:
+      213: 1915714818281717535
+    second: chip_s01-removebg-preview_91
+  - first:
+      213: 5946680093162570987
+    second: chip_s01-removebg-preview_92
+  - first:
+      213: -1410042200696419896
+    second: chip_s01-removebg-preview_93
+  - first:
+      213: -5276732385232836189
+    second: chip_s01-removebg-preview_94
+  - first:
+      213: 8732941297450862876
+    second: chip_s01-removebg-preview_95
+  - first:
+      213: -2178509025466020691
+    second: chip_s01-removebg-preview_96
+  - first:
+      213: -8009400635304617126
+    second: chip_s01-removebg-preview_97
+  - first:
+      213: -4179055617692245950
+    second: chip_s01-removebg-preview_98
+  - first:
+      213: -5479378009203480018
+    second: chip_s01-removebg-preview_99
+  - first:
+      213: -2138008180545325283
+    second: chip_s01-removebg-preview_100
+  - first:
+      213: -3667357076233849562
+    second: chip_s01-removebg-preview_101
+  - first:
+      213: -2233883495484075897
+    second: chip_s01-removebg-preview_102
+  - first:
+      213: 165840374774298845
+    second: chip_s01-removebg-preview_103
+  - first:
+      213: -7433366904068999477
+    second: chip_s01-removebg-preview_104
+  - first:
+      213: 4498694278085486125
+    second: chip_s01-removebg-preview_105
+  - first:
+      213: 3201624391993947964
+    second: chip_s01-removebg-preview_106
+  - first:
+      213: 2853661011759894602
+    second: chip_s01-removebg-preview_107
+  - first:
+      213: -4793156443669632971
+    second: chip_s01-removebg-preview_108
+  - first:
+      213: -3377138093390188030
+    second: chip_s01-removebg-preview_109
+  - first:
+      213: -5610242443665537270
+    second: chip_s01-removebg-preview_110
+  - first:
+      213: 1296062414337342675
+    second: chip_s01-removebg-preview_111
+  - first:
+      213: 6988588536235993468
+    second: chip_s01-removebg-preview_112
+  - first:
+      213: -6710730042345552534
+    second: chip_s01-removebg-preview_113
+  - first:
+      213: 6010336429337264543
+    second: chip_s01-removebg-preview_114
+  - first:
+      213: -3393668308837027628
+    second: chip_s01-removebg-preview_115
+  - first:
+      213: 1504183632647932831
+    second: chip_s01-removebg-preview_116
+  - first:
+      213: -7332384371425746232
+    second: chip_s01-removebg-preview_117
+  - first:
+      213: -4837348746166511024
+    second: chip_s01-removebg-preview_118
+  - first:
+      213: 1589791141152260674
+    second: chip_s01-removebg-preview_119
+  - first:
+      213: 3803661725165762867
+    second: chip_s01-removebg-preview_120
+  - first:
+      213: -4453021208307783463
+    second: chip_s01-removebg-preview_121
+  - first:
+      213: 6669693444707044737
+    second: chip_s01-removebg-preview_122
+  - first:
+      213: 5242808277564397490
+    second: chip_s01-removebg-preview_123
+  - first:
+      213: -3418606534084497561
+    second: chip_s01-removebg-preview_124
+  - first:
+      213: 138886621432248058
+    second: chip_s01-removebg-preview_125
+  - first:
+      213: -3834851417108694678
+    second: chip_s01-removebg-preview_126
+  - first:
+      213: -1606788277438515846
+    second: chip_s01-removebg-preview_127
+  - first:
+      213: -7174948128867284491
+    second: chip_s01-removebg-preview_128
+  - first:
+      213: 7560568672060474649
+    second: chip_s01-removebg-preview_129
+  - first:
+      213: -4214735609410423928
+    second: chip_s01-removebg-preview_130
+  - first:
+      213: 1391494069564657642
+    second: chip_s01-removebg-preview_131
+  - first:
+      213: -4332863768102357401
+    second: chip_s01-removebg-preview_132
+  - first:
+      213: 6466942270154452583
+    second: chip_s01-removebg-preview_133
+  - first:
+      213: 1463779884807047818
+    second: chip_s01-removebg-preview_134
+  - first:
+      213: -3439009728426965767
+    second: chip_s01-removebg-preview_135
+  - first:
+      213: -73657656281247086
+    second: chip_s01-removebg-preview_136
+  - first:
+      213: 6325058869361995838
+    second: chip_s01-removebg-preview_137
+  - first:
+      213: 6406128094335416544
+    second: chip_s01-removebg-preview_138
+  - first:
+      213: 6790350091059677129
+    second: chip_s01-removebg-preview_139
+  - first:
+      213: 1039535210139960288
+    second: chip_s01-removebg-preview_140
+  - first:
+      213: 2705311514809884477
+    second: chip_s01-removebg-preview_141
+  - first:
+      213: -4690215933529855408
+    second: chip_s01-removebg-preview_142
+  - first:
+      213: 4457717914315803413
+    second: chip_s01-removebg-preview_143
+  - first:
+      213: 6536722470353799794
+    second: chip_s01-removebg-preview_144
+  - first:
+      213: 592785372147218833
+    second: chip_s01-removebg-preview_145
+  - first:
+      213: 3004196046535807029
+    second: chip_s01-removebg-preview_146
+  - first:
+      213: -1967726495453808650
+    second: chip_s01-removebg-preview_147
+  - first:
+      213: -3137783558365959305
+    second: chip_s01-removebg-preview_148
+  - first:
+      213: -6501982895427909898
+    second: chip_s01-removebg-preview_149
+  - first:
+      213: 7033547316196409863
+    second: chip_s01-removebg-preview_150
+  - first:
+      213: -1749425868624523691
+    second: chip_s01-removebg-preview_151
+  - first:
+      213: 1272354589311158449
+    second: chip_s01-removebg-preview_152
+  - first:
+      213: 4897709113187837915
+    second: chip_s01-removebg-preview_153
+  - first:
+      213: -3365838115568509933
+    second: chip_s01-removebg-preview_154
+  - first:
+      213: 1095634808179524493
+    second: chip_s01-removebg-preview_155
+  - first:
+      213: -389123989161686425
+    second: chip_s01-removebg-preview_156
+  - first:
+      213: -6777701457828828670
+    second: chip_s01-removebg-preview_157
+  - first:
+      213: -8286765896276186739
+    second: chip_s01-removebg-preview_158
+  - first:
+      213: 4491021582315938497
+    second: chip_s01-removebg-preview_159
+  - first:
+      213: -7359402012127887689
+    second: chip_s01-removebg-preview_160
+  - first:
+      213: -5039819390279384138
+    second: chip_s01-removebg-preview_161
+  - first:
+      213: -8378063549147336958
+    second: chip_s01-removebg-preview_162
+  - first:
+      213: -8353598755428388740
+    second: chip_s01-removebg-preview_163
+  - first:
+      213: 3604778969901156384
+    second: chip_s01-removebg-preview_164
+  - first:
+      213: -5409303078119007255
+    second: chip_s01-removebg-preview_165
+  - first:
+      213: -5232553412537441537
+    second: chip_s01-removebg-preview_166
+  - first:
+      213: 3855020881803478961
+    second: chip_s01-removebg-preview_167
+  - first:
+      213: 9005944743211671404
+    second: chip_s01-removebg-preview_168
+  - first:
+      213: 2387648273942040632
+    second: chip_s01-removebg-preview_169
+  - first:
+      213: -2771140009720680345
+    second: chip_s01-removebg-preview_170
+  - first:
+      213: -5568095766409837181
+    second: chip_s01-removebg-preview_171
+  - first:
+      213: 3052186818596383857
+    second: chip_s01-removebg-preview_172
+  - first:
+      213: 2825287828830936703
+    second: chip_s01-removebg-preview_173
+  - first:
+      213: -821448607658924387
+    second: chip_s01-removebg-preview_174
+  - first:
+      213: -6746577733859589875
+    second: chip_s01-removebg-preview_175
+  - first:
+      213: -5862290138674642643
+    second: chip_s01-removebg-preview_176
+  - first:
+      213: -8548957386453553755
+    second: chip_s01-removebg-preview_177
+  - first:
+      213: -9071968201083677542
+    second: chip_s01-removebg-preview_178
+  - first:
+      213: 4215964925477048088
+    second: chip_s01-removebg-preview_179
+  - first:
+      213: 3761421752104072390
+    second: chip_s01-removebg-preview_180
+  - first:
+      213: -2843612755142663060
+    second: chip_s01-removebg-preview_181
+  - first:
+      213: 5798475634407245281
+    second: chip_s01-removebg-preview_182
+  - first:
+      213: 7168035309634060927
+    second: chip_s01-removebg-preview_183
+  - first:
+      213: -2251110175627175197
+    second: chip_s01-removebg-preview_184
+  - first:
+      213: -8004091229209539552
+    second: chip_s01-removebg-preview_185
+  - first:
+      213: 9174819044998499704
+    second: chip_s01-removebg-preview_186
+  - first:
+      213: -4569072164405701378
+    second: chip_s01-removebg-preview_187
+  - first:
+      213: -6976214276294788742
+    second: chip_s01-removebg-preview_188
+  - first:
+      213: 2604704742962491012
+    second: chip_s01-removebg-preview_189
+  - first:
+      213: -3699481597075107853
+    second: chip_s01-removebg-preview_190
+  - first:
+      213: 6464465643641114747
+    second: chip_s01-removebg-preview_191
+  - first:
+      213: 4836053212119862104
+    second: chip_s01-removebg-preview_192
+  - first:
+      213: -3795223412018590251
+    second: chip_s01-removebg-preview_193
+  - first:
+      213: -1376487412920038201
+    second: chip_s01-removebg-preview_194
+  - first:
+      213: -3282180885401973985
+    second: chip_s01-removebg-preview_195
+  - first:
+      213: 8422154663550424703
+    second: chip_s01-removebg-preview_196
+  - first:
+      213: 5822711886836493494
+    second: chip_s01-removebg-preview_197
+  - first:
+      213: -6765807794496293994
+    second: chip_s01-removebg-preview_198
+  - first:
+      213: 8670534350126436796
+    second: chip_s01-removebg-preview_199
+  - first:
+      213: 871504963068250442
+    second: chip_s01-removebg-preview_200
+  - first:
+      213: -1035448497782808598
+    second: chip_s01-removebg-preview_201
+  - first:
+      213: -1479834694308669369
+    second: chip_s01-removebg-preview_202
+  - first:
+      213: 2186798860756616192
+    second: chip_s01-removebg-preview_203
+  - first:
+      213: 6851782157566730377
+    second: chip_s01-removebg-preview_204
+  - first:
+      213: -7937402304652326213
+    second: chip_s01-removebg-preview_205
+  - first:
+      213: 8888565028279847024
+    second: chip_s01-removebg-preview_206
+  - first:
+      213: 8397468278308667236
+    second: chip_s01-removebg-preview_207
+  - first:
+      213: -8885874713221821211
+    second: chip_s01-removebg-preview_208
+  - first:
+      213: -5921710849474776248
+    second: chip_s01-removebg-preview_209
+  - first:
+      213: 5773346590837303720
+    second: chip_s01-removebg-preview_210
+  - first:
+      213: 6551894445136377489
+    second: chip_s01-removebg-preview_211
+  - first:
+      213: -2012432689858301857
+    second: chip_s01-removebg-preview_212
+  - first:
+      213: 4103946610633356683
+    second: chip_s01-removebg-preview_213
+  - first:
+      213: 5816090641842524209
+    second: chip_s01-removebg-preview_214
+  - first:
+      213: -4988304867492620724
+    second: chip_s01-removebg-preview_215
+  - first:
+      213: 1537003516810666794
+    second: chip_s01-removebg-preview_216
+  - first:
+      213: 8933428158602907460
+    second: chip_s01-removebg-preview_217
+  - first:
+      213: -4111375812583569650
+    second: chip_s01-removebg-preview_218
+  - first:
+      213: -2384746561785406846
+    second: chip_s01-removebg-preview_219
+  - first:
+      213: 4262717560196585391
+    second: chip_s01-removebg-preview_220
+  - first:
+      213: 7312970081148074761
+    second: chip_s01-removebg-preview_221
+  - first:
+      213: 3164576339532093882
+    second: chip_s01-removebg-preview_222
+  - first:
+      213: 1388582020397461050
+    second: chip_s01-removebg-preview_223
+  - first:
+      213: -368458032982536506
+    second: chip_s01-removebg-preview_224
+  - first:
+      213: 3803399278658677341
+    second: chip_s01-removebg-preview_0
+  - first:
+      213: 100065488084789445
+    second: chip_s01-removebg-preview_1
+  - first:
+      213: 2774041478958287727
+    second: chip_s01-removebg-preview_2
+  - first:
+      213: 3733406632088838477
+    second: chip_s01-removebg-preview_3
+  - first:
+      213: -2729106400255628157
+    second: chip_s01-removebg-preview_4
+  - first:
+      213: 9145886265092486678
+    second: chip_s01-removebg-preview_5
+  - first:
+      213: -171957987513495393
+    second: chip_s01-removebg-preview_6
+  - first:
+      213: 7500890150974229483
+    second: chip_s01-removebg-preview_7
+  - first:
+      213: -2400119187365744037
+    second: chip_s01-removebg-preview_8
+  - first:
+      213: 3190693862136061219
+    second: chip_s01-removebg-preview_9
+  - first:
+      213: 2345204828603229464
+    second: chip_s01-removebg-preview_10
+  - first:
+      213: -5167375699307004947
+    second: chip_s01-removebg-preview_11
+  - first:
+      213: 1170717360716810149
+    second: chip_s01-removebg-preview_12
+  - first:
+      213: -1172646021213163430
+    second: chip_s01-removebg-preview_13
+  - first:
+      213: -406844882257997708
+    second: chip_s01-removebg-preview_14
+  - first:
+      213: -2064705593259143451
+    second: chip_s01-removebg-preview_15
+  - first:
+      213: 372583854749137912
+    second: chip_s01-removebg-preview_16
+  - first:
+      213: -1160020431649074828
+    second: chip_s01-removebg-preview_17
+  - first:
+      213: 8631795611972110757
+    second: chip_s01-removebg-preview_18
+  - first:
+      213: 5426694344018946961
+    second: chip_s01-removebg-preview_19
+  - first:
+      213: 1545428171100087597
+    second: chip_s01-removebg-preview_20
+  - first:
+      213: -2534875508622707309
+    second: chip_s01-removebg-preview_21
+  - first:
+      213: -3337712692121152871
+    second: chip_s01-removebg-preview_22
+  - first:
+      213: -2268630482977537229
+    second: chip_s01-removebg-preview_23
+  - first:
+      213: 6434658712079917295
+    second: chip_s01-removebg-preview_24
+  - first:
+      213: 2168408505535583431
+    second: chip_s01-removebg-preview_25
+  - first:
+      213: 7713325497220859457
+    second: chip_s01-removebg-preview_26
+  - first:
+      213: -1581169503370619695
+    second: chip_s01-removebg-preview_27
+  - first:
+      213: -2216832344532771464
+    second: chip_s01-removebg-preview_28
+  - first:
+      213: -1096570872496907914
+    second: chip_s01-removebg-preview_29
+  - first:
+      213: -5130242756336865554
+    second: chip_s01-removebg-preview_30
+  - first:
+      213: -1457238496315423370
+    second: chip_s01-removebg-preview_31
+  - first:
+      213: 5681458204557223588
+    second: chip_s01-removebg-preview_32
+  - first:
+      213: -6452529149943161784
+    second: chip_s01-removebg-preview_33
+  - first:
+      213: -9100496352490209871
+    second: chip_s01-removebg-preview_34
+  - first:
+      213: -3852863485011883411
+    second: chip_s01-removebg-preview_35
+  - first:
+      213: -1329505066987199861
+    second: chip_s01-removebg-preview_36
+  - first:
+      213: -6614527024395118410
+    second: chip_s01-removebg-preview_37
+  - first:
+      213: 7072635411491652897
+    second: chip_s01-removebg-preview_38
+  - first:
+      213: 4215565500406066619
+    second: chip_s01-removebg-preview_39
+  - first:
+      213: -678518630496827496
+    second: chip_s01-removebg-preview_40
+  - first:
+      213: 1664622317232403599
+    second: chip_s01-removebg-preview_41
+  - first:
+      213: -6110874823384022587
+    second: chip_s01-removebg-preview_42
+  - first:
+      213: -4049812573908567719
+    second: chip_s01-removebg-preview_43
+  - first:
+      213: -6938448749465101775
+    second: chip_s01-removebg-preview_44
+  - first:
+      213: 289023356191063206
+    second: chip_s01-removebg-preview_45
+  - first:
+      213: 4160995680292191243
+    second: chip_s01-removebg-preview_46
+  - first:
+      213: 1513368660487152695
+    second: chip_s01-removebg-preview_47
+  - first:
+      213: 8616166900164618180
+    second: chip_s01-removebg-preview_48
+  - first:
+      213: -7033642861688655375
+    second: chip_s01-removebg-preview_49
+  - first:
+      213: 6586712160725680925
+    second: chip_s01-removebg-preview_50
+  - first:
+      213: 8661223970138747368
+    second: chip_s01-removebg-preview_51
+  - first:
+      213: 1871563366493434834
+    second: chip_s01-removebg-preview_52
+  - first:
+      213: -57951120126284056
+    second: chip_s01-removebg-preview_53
+  - first:
+      213: -8769109057462399066
+    second: chip_s01-removebg-preview_54
+  - first:
+      213: 3572759438840745330
+    second: chip_s01-removebg-preview_55
+  - first:
+      213: -5404022909678915986
+    second: chip_s01-removebg-preview_56
+  - first:
+      213: 3845966868259188784
+    second: chip_s01-removebg-preview_57
+  - first:
+      213: 2505965093519627477
+    second: chip_s01-removebg-preview_58
+  - first:
+      213: 1324752137989826822
+    second: chip_s01-removebg-preview_59
+  - first:
+      213: -4840875948541164509
+    second: chip_s01-removebg-preview_60
+  - first:
+      213: -2694950438919383571
+    second: chip_s01-removebg-preview_61
+  - first:
+      213: 3553853209410347927
+    second: chip_s01-removebg-preview_62
+  - first:
+      213: -177582122367520219
+    second: chip_s01-removebg-preview_63
+  - first:
+      213: -2198877873177837811
+    second: chip_s01-removebg-preview_64
+  - first:
+      213: -3136291767355974067
+    second: chip_s01-removebg-preview_65
+  - first:
+      213: -3129151489035500216
+    second: chip_s01-removebg-preview_66
+  - first:
+      213: -5343758330368640712
+    second: chip_s01-removebg-preview_67
+  - first:
+      213: -3523357764978777233
+    second: chip_s01-removebg-preview_68
+  - first:
+      213: 8357018354549698301
+    second: chip_s01-removebg-preview_69
+  - first:
+      213: -4346086124272357684
+    second: chip_s01-removebg-preview_70
+  - first:
+      213: 7669534778606860364
+    second: chip_s01-removebg-preview_71
+  - first:
+      213: -842524658658808312
+    second: chip_s01-removebg-preview_72
+  - first:
+      213: 8794421896309549968
+    second: chip_s01-removebg-preview_73
+  - first:
+      213: 457833979381568014
+    second: chip_s01-removebg-preview_74
+  - first:
+      213: 6826393334697620764
+    second: chip_s01-removebg-preview_75
+  - first:
+      213: -9114481043598789255
+    second: chip_s01-removebg-preview_76
+  - first:
+      213: -8017159008440758270
+    second: chip_s01-removebg-preview_77
+  - first:
+      213: -3416812880925531346
+    second: chip_s01-removebg-preview_78
+  - first:
+      213: 3583337511348325571
+    second: chip_s01-removebg-preview_79
+  - first:
+      213: 6774454154114016915
+    second: chip_s01-removebg-preview_80
+  - first:
+      213: -6486559506990422357
+    second: chip_s01-removebg-preview_81
+  - first:
+      213: 8111929645489030428
+    second: chip_s01-removebg-preview_82
+  - first:
+      213: -2913278427066259256
+    second: chip_s01-removebg-preview_83
+  - first:
+      213: 4065371340805260743
+    second: chip_s01-removebg-preview_84
+  - first:
+      213: 1493830720826632119
+    second: chip_s01-removebg-preview_85
+  - first:
+      213: 3253567897188388147
+    second: chip_s01-removebg-preview_86
+  - first:
+      213: -1938251406446247928
+    second: chip_s01-removebg-preview_87
+  - first:
+      213: 8156341222392415229
+    second: chip_s01-removebg-preview_88
+  - first:
+      213: -7527199534047927980
+    second: chip_s01-removebg-preview_89
+  - first:
+      213: -8492656881789510582
+    second: chip_s01-removebg-preview_90
+  - first:
+      213: -8922486937990172555
+    second: chip_s01-removebg-preview_91
+  - first:
+      213: -6816811070131273117
+    second: chip_s01-removebg-preview_92
+  - first:
+      213: 6308899845990865962
+    second: chip_s01-removebg-preview_93
+  - first:
+      213: -242424452951861214
+    second: chip_s01-removebg-preview_94
+  - first:
+      213: -3004955567034137771
+    second: chip_s01-removebg-preview_95
+  - first:
+      213: -2282841847993939285
+    second: chip_s01-removebg-preview_96
+  - first:
+      213: -3383945640799939109
+    second: chip_s01-removebg-preview_97
+  - first:
+      213: 7457102511511344469
+    second: chip_s01-removebg-preview_98
+  - first:
+      213: 4125149716264070193
+    second: chip_s01-removebg-preview_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a6d6f1e7368c430800000000000000
+      internalID: 3803399278658677341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8e19ff701836100800000000000000
+      internalID: 100065488084789445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b028117006f7620800000000000000
+      internalID: 2774041478958287727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d412ebb2d89bfc330800000000000000
+      internalID: 3733406632088838477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ca48a3034402ad0800000000000000
+      internalID: -2729106400255628157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61636f2e917bcee70800000000000000
+      internalID: 9145886265092486678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9097f51f151d9df0800000000000000
+      internalID: -171957987513495393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb8b04d9d3881860800000000000000
+      internalID: 7500890150974229483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b523772c05011bed0800000000000000
+      internalID: -2400119187365744037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d93af992f974c20800000000000000
+      internalID: 3190693862136061219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8152d6ebd57db8020800000000000000
+      internalID: 2345204828603229464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debf1dded2bc948b0800000000000000
+      internalID: -5167375699307004947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a788e1ac393f3010800000000000000
+      internalID: 1170717360716810149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50705a18ace9bfe0800000000000000
+      internalID: -1172646021213163430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47093523cb89a5af0800000000000000
+      internalID: -406844882257997708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eec604c331b853e0800000000000000
+      internalID: -2064705593259143451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb3e57ba0fab2500800000000000000
+      internalID: 372583854749137912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4719c5f3097c6efe0800000000000000
+      internalID: -1160020431649074828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a98f59306c4ac770800000000000000
+      internalID: 8631795611972110757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19beed701cd7f4b40800000000000000
+      internalID: 5426694344018946961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d256d4ccbb6727510800000000000000
+      internalID: 1545428171100087597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395b4beb72052dcd0800000000000000
+      internalID: -2534875508622707309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9925ecf8dff0ea1d0800000000000000
+      internalID: -3337712692121152871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333408f68943480e0800000000000000
+      internalID: -2268630482977537229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe06560a1008c4950800000000000000
+      internalID: 6434658712079917295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4526c0c0cb71e10800000000000000
+      internalID: 2168408505535583431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14600da3cac3b0b60800000000000000
+      internalID: 7713325497220859457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4d9edc6be8e0ae0800000000000000
+      internalID: -1581169503370619695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d17895aba3c31e0800000000000000
+      internalID: -2216832344532771464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67918c1f99238c0f0800000000000000
+      internalID: -1096570872496907914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee2501f467bdc8b0800000000000000
+      internalID: -5130242756336865554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6754812fe49d6cbe0800000000000000
+      internalID: -1457238496315423370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6acd8a22898de40800000000000000
+      internalID: 5681458204557223588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cd8c2dce20476a0800000000000000
+      internalID: -6452529149943161784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd351ea8ca84b180800000000000000
+      internalID: -9100496352490209871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a0bcfd211e78ac0800000000000000
+      internalID: -3852863485011883411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8265238f26ac8de0800000000000000
+      internalID: -1329505066987199861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b815b177ba7434a0800000000000000
+      internalID: -6614527024395118410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1250fcf2f6c072260800000000000000
+      internalID: 7072635411491652897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd6813dc72b08a30800000000000000
+      internalID: 4215565500406066619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89780c786ea6596f0800000000000000
+      internalID: -678518630496827496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8433df8d2de91710800000000000000
+      internalID: 1664622317232403599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1415599bfc13ba0800000000000000
+      internalID: -6110874823384022587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959f44dbbec2cc7c0800000000000000
+      internalID: -4049812573908567719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a11e3bf9da5bf90800000000000000
+      internalID: -6938448749465101775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac3f8d0631d20400800000000000000
+      internalID: 289023356191063206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c30cb7683deb930800000000000000
+      internalID: 4160995680292191243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734ab8e47c0900510800000000000000
+      internalID: 1513368660487152695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c76ac13526c29770800000000000000
+      internalID: 8616166900164618180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1f518451b736e90800000000000000
+      internalID: -7033642861688655375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13ccc1ffc3b86b50800000000000000
+      internalID: 6586712160725680925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1f73ccf49d23870800000000000000
+      internalID: 8661223970138747368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3b97247f029f910800000000000000
+      internalID: 1871563366493434834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee698663cd123ff0800000000000000
+      internalID: -57951120126284056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af0b41e5cddd4680800000000000000
+      internalID: -8769109057462399066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dc604c7cdf49130800000000000000
+      internalID: 3572759438840745330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ee38e9bcd0105b0800000000000000
+      internalID: -5404022909678915986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030b2886d7e9f5530800000000000000
+      internalID: 3845966868259188784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d414c2b9f9f6c220800000000000000
+      internalID: 2505965093519627477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609a258fc07726210800000000000000
+      internalID: 1324752137989826822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324c87d09f0c1dcb0800000000000000
+      internalID: -4840875948541164509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de55de0badc999ad0800000000000000
+      internalID: -2694950438919383571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79329c23aa2d15130800000000000000
+      internalID: 3553853209410347927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522f2d5200a198df0800000000000000
+      internalID: -177582122367520219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fb4c879340c71e0800000000000000
+      internalID: -2198877873177837811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ed3ce1147a974d0800000000000000
+      internalID: -3136291767355974067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84587a7bc450394d0800000000000000
+      internalID: -3129151489035500216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839b7d86c1827d5b0800000000000000
+      internalID: -5343758330368640712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6363d1c7c48a1fc0800000000000000
+      internalID: -3523357764978777233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeaa548ae71af370800000000000000
+      internalID: 8357018354549698301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cceed7f42b99fa3c0800000000000000
+      internalID: -4346086124272357684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48bd570f39af6a60800000000000000
+      internalID: 7669534778606860364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e622e6940ce44f0800000000000000
+      internalID: -842524658658808312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ba27eae101c0a70800000000000000
+      internalID: 8794421896309549968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02542b149d8a5600800000000000000
+      internalID: 457833979381568014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15feb3f1983cbe50800000000000000
+      internalID: 6826393334697620764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975334c08cbd28180800000000000000
+      internalID: -9114481043598789255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200d01acb545db090800000000000000
+      internalID: -8017159008440758270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e236470b9ca0590d0800000000000000
+      internalID: -3416812880925531346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cccf323b729ab130800000000000000
+      internalID: 3583337511348325571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_s01-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396a22b1922b30e50800000000000000
+      internalID: 6774454154114016915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

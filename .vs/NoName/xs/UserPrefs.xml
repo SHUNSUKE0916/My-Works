@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{B28342DB-D616-8E16-E43C-A16BBB40C1FD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameMain/QuickGhost.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SceneTransition.cs" Line="10" Column="50" />
+      <File FileName="Assets/Scripts/GameMain/BaseCharacterController.cs" />
+      <File FileName="Assets/Scripts/GameMain/BaseMortionController.cs" />
+      <File FileName="Assets/Scripts/GameMain/MainManager.cs" />
+      <File FileName="Assets/Scripts/GameMain/Clear.cs" />
+      <File FileName="Assets/Scripts/GameMain/Ghost.cs" Line="61" Column="6" />
+      <File FileName="Assets/Scripts/GameMain/StageUIManager.cs" />
+      <File FileName="Assets/Scripts/SoundManager.cs" />
+      <File FileName="Assets/Scripts/Title/TitleManager.cs" />
+      <File FileName="Assets/Scripts/InstructionManager.cs" />
+      <File FileName="Assets/Scripts/GameMain/Stage2toStage3.cs" />
+      <File FileName="Assets/Scripts/GameMain/Obstacle.cs" />
+      <File FileName="Assets/Scripts/GameMain/QuickGhost.cs" Line="44" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NoName" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameMain" expanded="True">
+                  <Node name="QuickGhost.cs" selected="True" />
+                </Node>
+                <Node name="Title" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ea3dd483-147c-4842-9db1-3daad78fd3da" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
